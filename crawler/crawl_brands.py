@@ -25,14 +25,17 @@ async def analysis():
 
             url_list = []
             urls = dom.xpath('//div[@class="part"]')
-            for part_urls in urls:
-                szm = part_urls.xpath('.//div[@class="sBrand"]/i/text()')
-                print(szm)
-                part_url_list = part_urls.xpath('.//div[@class="sBrand"]/ul/li/a/@href')
-                part_url_list = ['https:' + x for x in part_url_list]
-                print(part_url_list)
-                url_list.extend(part_url_list)
-
+            with open('brand_urls.txt', 'w') as f:
+                for part_urls in urls:
+                    szm = part_urls.xpath('.//div[@class="sBrand"]/i/text()')
+                    part_url_list = part_urls.xpath('.//div[@class="sBrand"]/ul/li/a/@href')
+                    part_url_list = ['https:' + x for x in part_url_list]
+                    url_list.extend(part_url_list)
+                    for brand_url in part_url_list:
+                        f.write(szm[0] + ' ' + brand_url + '\n')
+            print(len(url_list))
+            url_len = list(set(url_list))
+            print(len(url_len))
 
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
