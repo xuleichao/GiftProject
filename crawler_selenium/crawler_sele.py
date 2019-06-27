@@ -24,6 +24,12 @@ def step1_web_info(url_info):
     # url_info = (A, url) type: tuple (字母, url)
     alpha = url_info[0]  # 字母
     browser.get(url_info[1]) # url
+    ## all products //*[@id="J-Select"]/div[3]/a[3]
+    # 获得名字
+    all_product_url = browser.find_element_by_xpath('//*[@id="J-Select"]/div[3]/a[3]')
+    all_product_url = "http:" + all_product_url[0]['href']
+    browser.get(all_product_url) # url
+    # 获得总产品数，然后每页20个，获得总页数
     
 
 
