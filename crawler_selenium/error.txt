@@ -1,0 +1,104 @@
+['B', 'https://cosme.pclady.com.cn/B+.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['B', 'https://cosme.pclady.com.cn/B+.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['E', 'https://cosme.pclady.com.cn/Elta', 'MD.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['F', 'https://cosme.pclady.com.cn/', 'FAB.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['H', 'https://cosme.pclady.com.cn/flowery', 'land.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['H', 'https://cosme.pclady.com.cn/Huda', 'Beauty.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['J', 'https://cosme.pclady.com.cn/G-young.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['B', 'https://cosme.pclady.com.cn/B+.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['E', 'https://cosme.pclady.com.cn/Elta', 'MD.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['F', 'https://cosme.pclady.com.cn/', 'FAB.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['H', 'https://cosme.pclady.com.cn/flowery', 'land.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['H', 'https://cosme.pclady.com.cn/Huda', 'Beauty.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['J', 'https://cosme.pclady.com.cn/G-young.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['B', 'https://cosme.pclady.com.cn/B+.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['E', 'https://cosme.pclady.com.cn/Elta', 'MD.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['F', 'https://cosme.pclady.com.cn/', 'FAB.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['H', 'https://cosme.pclady.com.cn/flowery', 'land.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['H', 'https://cosme.pclady.com.cn/Huda', 'Beauty.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['J', 'https://cosme.pclady.com.cn/G-young.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['B', 'https://cosme.pclady.com.cn/B+.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['E', 'https://cosme.pclady.com.cn/Elta', 'MD.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['F', 'https://cosme.pclady.com.cn/', 'FAB.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['H', 'https://cosme.pclady.com.cn/flowery', 'land.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['H', 'https://cosme.pclady.com.cn/Huda', 'Beauty.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['J', 'https://cosme.pclady.com.cn/G-young.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
+['Y', 'https://cosme.pclady.com.cn/unny', 'club.html']
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="J-Select"]/div[3]/a[3]"}
+  (Session info: headless chrome=75.0.3770.142)
+  (Driver info: chromedriver=72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38),platform=Windows NT 10.0.17763 x86_64)
