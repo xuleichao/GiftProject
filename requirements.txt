@@ -34,7 +34,7 @@ gast==0.2.2
 grpcio==1.19.0
 h5py==2.9.0
 hanziconv==0.3.2
-html5lib==0.9999999
+html5lib==0.999999999
 hyperlink==19.0.0
 idna==2.8
 imagesize==1.1.0
